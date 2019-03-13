@@ -1,0 +1,14 @@
+/Users/komalgpta/rest-api/rest-api/CommandAPI/bin/Debug/netcoreapp2.2/CommandAPI.deps.json
+/Users/komalgpta/rest-api/rest-api/CommandAPI/bin/Debug/netcoreapp2.2/CommandAPI.runtimeconfig.json
+/Users/komalgpta/rest-api/rest-api/CommandAPI/bin/Debug/netcoreapp2.2/CommandAPI.runtimeconfig.dev.json
+/Users/komalgpta/rest-api/rest-api/CommandAPI/bin/Debug/netcoreapp2.2/CommandAPI.dll
+/Users/komalgpta/rest-api/rest-api/CommandAPI/bin/Debug/netcoreapp2.2/CommandAPI.pdb
+/Users/komalgpta/rest-api/rest-api/CommandAPI/obj/Debug/netcoreapp2.2/CommandAPI.csprojAssemblyReference.cache
+/Users/komalgpta/rest-api/rest-api/CommandAPI/obj/Debug/netcoreapp2.2/CommandAPI.csproj.CoreCompileInputs.cache
+/Users/komalgpta/rest-api/rest-api/CommandAPI/obj/Debug/netcoreapp2.2/CommandAPI.RazorAssemblyInfo.cache
+/Users/komalgpta/rest-api/rest-api/CommandAPI/obj/Debug/netcoreapp2.2/CommandAPI.RazorAssemblyInfo.cs
+/Users/komalgpta/rest-api/rest-api/CommandAPI/obj/Debug/netcoreapp2.2/CommandAPI.AssemblyInfoInputs.cache
+/Users/komalgpta/rest-api/rest-api/CommandAPI/obj/Debug/netcoreapp2.2/CommandAPI.AssemblyInfo.cs
+/Users/komalgpta/rest-api/rest-api/CommandAPI/obj/Debug/netcoreapp2.2/CommandAPI.RazorTargetAssemblyInfo.cache
+/Users/komalgpta/rest-api/rest-api/CommandAPI/obj/Debug/netcoreapp2.2/CommandAPI.dll
+/Users/komalgpta/rest-api/rest-api/CommandAPI/obj/Debug/netcoreapp2.2/CommandAPI.pdb
