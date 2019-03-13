@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CmdApi.Controller
 {
-    [Route("api/[Controller]")]
+    [Route("api/[controller]")]
     [ApiController]
     public class CommandsController : ControllerBase
     {
